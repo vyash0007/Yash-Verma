@@ -20,12 +20,5 @@ I love building modern, responsive, and high‑performance web applications. I e
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, GitHub, VS Code
 
----
 
-### 📌 Fun Fact
-I believe great products come from a mix of creativity, simplicity, and clean code.
-
----
-
-Thanks for visiting my profile! 😊
 
