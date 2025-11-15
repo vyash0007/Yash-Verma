@@ -1,7 +1,39 @@
-Hi 👋, I'm Yash Verma
+# Hi there, I'm Yash Verma 👋
 
-A passionate Web Developer from India
+### 💻 Passionate Web Developer from India
 
-📫 How to reach me vyash5407@gmail.com
+I love building modern, responsive, and high‑performance web applications. I enjoy experimenting with new technologies, improving UI/UX, and writing clean, scalable code.
 
-📄 Know about my experiences yashverma.site
+---
+
+### 🚀 About Me
+- 🌍 Based in India
+- 🔭 Currently improving my full‑stack development skills
+- 🌱 Learning and exploring Next.js, TypeScript & Tailwind CSS
+- 💬 I love working on real‑world projects and solving challenges
+- 🎯 Goal: Become a highly skilled developer and build impactful digital products
+
+---
+
+### 📫 Contact
+**Email:** vyash5407@gmail.com
+
+### 🌐 Portfolio
+**Website:** [yashverma.site](https://yashverma.site)
+
+---
+
+### ⚡ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📌 Fun Fact
+I believe great products come from a mix of creativity, simplicity, and clean code.
+
+---
+
+Thanks for visiting my profile! 😊
