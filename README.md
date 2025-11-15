@@ -6,20 +6,11 @@ I love building modern, responsive, and high‑performance web applications. I e
 
 ---
 
-### 🚀 About Me
-- 🌍 Based in India
-- 🔭 Currently improving my full‑stack development skills
-- 🌱 Learning and exploring Next.js, TypeScript & Tailwind CSS
-- 💬 I love working on real‑world projects and solving challenges
-- 🎯 Goal: Become a highly skilled developer and build impactful digital products
 
----
 
 ### 📫 Contact
-**Email:** vyash5407@gmail.com
-
-### 🌐 Portfolio
-**Website:** [yashverma.site](https://yashverma.site)
+**Email:** vyash5407@gmail.com  
+**Portfolio:** [yashverma.site](https://yashverma.site)
 
 ---
 
@@ -37,3 +28,4 @@ I believe great products come from a mix of creativity, simplicity, and clean co
 ---
 
 Thanks for visiting my profile! 😊
+
