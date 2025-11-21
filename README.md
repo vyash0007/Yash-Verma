@@ -17,8 +17,9 @@ I love building modern, responsive, and high‑performance web applications. I e
 ### ⚡ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React,  NextJs
 - **Backend:** Node.js, Express
-- **Database:** MongoDB, MySQL, Postgress
+- **Database:** MongoDB, MySQL, Postgres SQL
 - **Tools:** Git, GitHub, VS Code
+- **Languages:** Java, Python, C++
 
 
 
